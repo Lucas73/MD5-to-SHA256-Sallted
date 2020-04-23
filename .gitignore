@@ -1,5 +1,8 @@
 # Ignore Play! working directory #
 secrets
+outputSalts
+outputClearHashesToSHA
+outputClearHashes
 db
 eclipse
 log
