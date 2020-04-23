@@ -1,4 +1,5 @@
 # Ignore Play! working directory #
+secrets.py
 db
 eclipse
 log
@@ -32,7 +33,6 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
 # External tool builders
 .externalToolBuilders/
 
